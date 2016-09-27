@@ -1,5 +1,14 @@
 # Juan Ibiapina
 
+|                         |
+|:------------------------|
+| juanibiapina@gmail.com  |
+| Porto Alegre, Brazil    |
+| 55 51 91820304          |
+|                         |
+
+---
+
 ## Summary
 
 I have a computer science background. I have worked in many different layers of

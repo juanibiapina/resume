@@ -36,6 +36,10 @@ h3 {
     color: #000000;
 }
 
+table {
+    width: 100%;
+}
+
 strong {
     font-size: 18px;
 }
