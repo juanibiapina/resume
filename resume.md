@@ -22,7 +22,7 @@ English and also a game and music enthusiast.
 
 ### Software Developer at Globo.com
 
-May 2015 - Present (1 year 5 months)
+<small>May 2015 - Present _(1 year 5 months)_</small>
 
 I joined Globo.com to work on the web media platform team. Our team is
 responsible for receiving and encoding videos to be prepared for internet
@@ -39,7 +39,7 @@ lot about mentoring and how to become a better example to other people.
 
 ### Software Developer at Bearch, Inc.
 
-November 2014 - April 2015 (6 months)
+<small>November 2014 - April 2015 _(6 months)_</small>
 
 We developed an anonymous social network.
 
@@ -49,7 +49,7 @@ and an IoS application. All of these technologies were new to me.
 
 ### Full Stack Developer at e-Core
 
-March 2013 - November 2014 (1 year 9 months)
+<small>March 2013 - November 2014 _(1 year 9 months)_</small>
 
 We developed a single page application for a remote client in New York.
 
@@ -67,7 +67,7 @@ time working from home, since the whole team was remote anyway.
 
 ### Full Stack Developer at Codeminer42
 
-July 2012 - February 2013 (8 months)
+<small>July 2012 - February 2013 _(8 months)_</small>
 
 We developed systems for startups.
 
@@ -89,7 +89,7 @@ shape some of my future career goals.
 
 ### Development Consultant at ThoughtWorks
 
-January 2011 - June 2012 (1 year 6 months)
+<small>January 2011 - June 2012 _(1 year 6 months)_</small>
 
 Consisted mainly of consulting and web development for the retail industry,
 with daily client facing situations. I worked mostly on maintaining and
@@ -108,10 +108,11 @@ motivation. I was really proud to build something important for the team.
 
 ## Education
 
-Universidade Federal do Piauí
+### Universidade Federal do Piauí (UFPI)
+
 Bachelor of Science (BS), Computer Science, 2004 - 2007
 
 ## Languages
 
-Portuguese (Native or bilingual proficiency)
-English (Full professional proficiency)
+- Portuguese (Native)
+- English (Professional proficiency)
