@@ -31,7 +31,7 @@ English and also a game and music enthusiast.
 
 ### Software Developer at Globo.com
 
-<small>May 2015 - Present _(1 year 5 months)_</small>
+<small>May 2015 - Present</small>
 
 I joined Globo.com to work on the web media platform team. Our team is
 responsible for receiving and encoding videos to be prepared for internet
