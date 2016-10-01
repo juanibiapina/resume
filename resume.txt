@@ -46,12 +46,6 @@ more than 50 locations across Brazil, gathering and processing videos
 from all partners. We process more than 2.5TB of videos on a weekly
 basis, accounting for more than a thousand hours of content.
 
-Responsibilities:
-
--   Maintain and add new features to a legacy Rails system distributed
-    across more than 50 locations
--   Manage and improve the video encoding process
-
 Accomplishments:
 
 -   Designed a content protection microservice that integrates with 3
