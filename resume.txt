@@ -67,12 +67,26 @@ Software Developer at Bearch, Inc.
 
 November 2014 - April 2015 _(6 months)_
 
-We developed an anonymous social network.
+We developed an anonymous social network. The whole team worked with all
+parts of the development, so I had the opportunity to work with a Go
+backend hosted on Google App Engine, an Android and an IoS application.
+All of these technologies were new to me.
 
-The whole team worked with all parts of the development, so I had the
-opportunity to work with a Go backend hosted on Google App Engine, an
-Android and an IoS application. All of these technologies were new to
-me.
+Accomplishments:
+
+-   Shipped a huge amount of features in very little time due to our
+    experimental nature
+-   Created a pipeline for building and deploying android and IoS apps
+    to their respective stores, improving the testing and release cycles
+-   Created a camera for Android that worked on more devices than the
+    Whatsapp Camera
+-   Worked daily with unknown technologies and new challenges
+
+Technologies:
+
+-   Go on Google App Engine
+-   Android with Java
+-   IoS with Objective C
 
 Full Stack Developer at e-Core
 
