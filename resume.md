@@ -14,7 +14,8 @@
 I have 6 years of experience with web development. I have worked in many
 different layers of software development, including backend, front end, mobile
 and server automation. My main focus is back end and I advocate code quality,
-readability and maintainability.
+readability and maintainability. I include tests on my daily development
+practice, together with TDD and refactoring.
 
 My main skill is learning, and I like to stretch it in daily challenging
 situations. I was lucky to have had the opportunity to join my first three jobs
@@ -22,10 +23,11 @@ without knowledge of the technologies involved and have learned them. I love
 environments where I can grow, surrounded by smart and interesting people.
 
 I love to code, and more specifically, I love programming languages and
-paradigms. I have experience with many programming languages and technologies,
-and willing to learn anything. I’m also confident working with fast delivery,
-continuous integration and many agile ideas. I’m fluent in Portuguese and
-English and also a game and music enthusiast.
+paradigms. In my free time, I have experimented with many programming languages
+and technologies, including SML, Python, Ruby, Haskell, Scala, Go, Rust,
+Racket, Bash, Clojure, etc and even my own language, Marco. I’m also confident
+working with fast delivery, continuous integration and many agile ideas. I’m
+fluent in Portuguese and English and also a game and music enthusiast.
 
 ## Experience
 
@@ -56,6 +58,7 @@ Technologies:
 - Ruby, Javascript and Coffeescript
 - Rails and Backbone
 - Ffmpeg and x264
+- Mongo and Redis
 
 ### Software Developer at Bearch, Inc.
 
@@ -79,48 +82,60 @@ Accomplishments:
 Technologies:
 
 - Go on Google App Engine
+- Javascript with Angular
 - Android with Java
 - IoS with Objective C
 
-### Full Stack Developer at e-Core
+### Software Developer at e-Core
 
 <small>March 2013 - November 2014 _(1 year 9 months)_</small>
 
-We developed a single page application for a remote client in New York.
-
-It consisted mainly of Rails and Coffeescript, but I also had the opportunity
-to learn Grails, Puppet, Chef, Solr, Mongo, Postgres and Redis among others. I
-was hired not only because I knew some of the technologies involved but also
+We developed a single page application for a remote client in New York. I was
+hired not only because I knew some of the technologies involved but also
 because I was willing to learn the ones I didn't know. This was a project that
 could change very fast.
 
-This was my first significant contact with infrastructure and automation. After
-I joined, we changed the deployment from a manual two hour process to fully
-automatic 160 seconds. We experimented with virtual machines, docker
-containers, different deploy and provisioning strategies. I spent most of my
-time working from home, since the whole team was remote anyway.
+Accomplishments:
 
-### Full Stack Developer at Codeminer42
+- Automated the deployment process and reduced the total time from 2 hours down
+    to 160 seconds.
+- Helped migrate a legacy application from Grails to Rails
+- Experimented with virtual machines, docker and several deployment strategies
+
+Technologies:
+
+- Ruby, Javascript, Coffeescript
+- Rails, Knockout.js
+- Groovy with Grails
+- Puppet, Chef
+- Mongo, Postgres, Redis, Solr
+- VirtualBox, Docker
+- Nginx
+
+### Software Developer at Codeminer42
 
 <small>July 2012 - February 2013 _(8 months)_</small>
 
-We developed systems for startups.
+We developed systems for startups. It was my first experience with Rails, but
+also included front-end development. Since each developer was responsible for
+managing a whole project, our responsibilities involved coding, creating
+interfaces, thinking about user experience, negotiating with clients, managing
+infrastructure and deployment, etc.
 
-It was my first experience with Rails, but also included some front-end
-development. Since each developer was responsible for managing a whole project,
-our responsibilities involved coding, creating interfaces, thinking about user
-experience, negotiating with clients etc. Some of these things I had to learn
-on the fly.
+I was one of the first people to be hired on our branch of the company, so I
+had the opportunity to help build the culture we wanted. I learned a lot from
+the experience and it helped shape some of my future career goals.
 
-We tried to incorporate and contribute to edge rails and gems. We also tried to
-focus on fast delivery, adopting agile practices that helped us achieve that
-goal. We were a very tightly coupled team with similar backgrounds and
-motivations.
+Accomplishments:
 
-I was also one of the first people to be hired on our branch of the company, so
-I had the opportunity to help build the culture we wanted. Even given my
-inexperience at the time, I learned a lot from the experience and it helped
-shape some of my future career goals.
+- Migrated an application from rails 2 to rails 4
+- Helped shape the office culture
+- Developed a project alone from conception to delivery
+
+Technologies:
+
+- Ruby, Javascript
+- Postgres
 
 ### Development Consultant at ThoughtWorks
 
@@ -135,11 +150,22 @@ This was my first contact with agile practices. I have learned much from it,
 including the importance of pair programming, TDD and Continuous Integration. I
 had a mentor that helped me build most of my ideas about development.
 
-I was part of initiatives to improve the development and feedback cycles. We
-introduced Javascript unit tests into the continuous integration framework,
-incentivized the culture of looking into build status and extended the
-development tools. All of these initiatives improved the team speed and
-motivation. I was really proud to build something important for the team.
+Accomplishments:
+
+- Started an initiative to improve development and feedback cycles
+- Introduced Javascript unit tests into the project
+- Started a culture of looking into build status
+- Extended the development tools, greatly improving development speed and team
+    motivation
+- Acquired the trust of some of the clients, making our work much easier
+- Participated on ThoughtWorks University, which changed my life
+- Started learning about interviewing candidates
+
+Technologies:
+
+- Java and Spring
+- Javascript
+- Ruby for integration tests
 
 ## Education
 
@@ -150,4 +176,4 @@ Bachelor of Science (BS), Computer Science, 2004 - 2007
 ## Languages
 
 - Portuguese (Native)
-- English (Professional proficiency)
+- English (Fluent)
