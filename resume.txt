@@ -14,10 +14,10 @@ JUAN IBIAPINA
 
 Summary
 
-I have a computer science background. I have worked in many different
-layers of software development, including backend, web front end, mobile
-and server automation. My main focus is back end and I advocate code
-quality, readability and maintainability.
+I have 6 years of experience with web development. I have worked in many
+different layers of software development, including backend, front end,
+mobile and server automation. My main focus is back end and I advocate
+code quality, readability and maintainability.
 
 My main skill is learning, and I like to stretch it in daily challenging
 situations. I was lucky to have had the opportunity to join my first
