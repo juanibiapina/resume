@@ -36,15 +36,32 @@ English and also a game and music enthusiast.
 I joined Globo.com to work on the web media platform team. Our team is
 responsible for receiving and encoding videos to be prepared for internet
 delivery. We work on a system that provides both an UI and an API for uploading
-videos and metadata. We use mainly Rails with Coffeescript. This system is
-distributed in more than 50 locations across Brazil, gathering and processing
-videos from all partners. We also experiment a little with microservices when
-it makes sense.
+videos and metadata. This system is distributed in more than 50 locations
+across Brazil, gathering and processing videos from all partners. We process
+more than 2.5TB of videos on a weekly basis, accounting for more than a
+thousand hours of content.
 
-This has been an incredible experience for me so far. Even though Globo already
-has a strong office culture in Rio, I helped shape the Porto Alegre office
-culture in our own way and took active part on hiring processes. I also learn a
-lot about mentoring and how to become a better example to other people.
+Responsibilities:
+
+- Maintain and add new features to a legacy Rails system distributed across
+    more than 50 locations
+- Manage and improve the video encoding process
+
+Accomplishments:
+
+- Designed a content protection microservice that integrates with 3 third party
+    APIs
+- Participated on hiring interviews for most people hired in the Porto Alegre office
+- Started an initiative to gather video encoding metrics and better understand
+    our system
+- Helped shape the office culture
+- Mentored less experienced developers
+
+Technologies:
+
+- Ruby, Javascript and Coffeescript
+- Rails and Backbone
+- Ffmpeg and x264
 
 ### Software Developer at Bearch, Inc.
 
