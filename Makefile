@@ -4,7 +4,7 @@ resume.html: resume.md style.css
 	pandoc --standalone -c style.css --from markdown --to html -o resume.html resume.md
 
 resume.pdf: resume.html
-	wkhtmltopdf resume.html resume.pdf
+	wkhtmltopdf --disable-smart-shrinking --zoom 2.5 resume.html resume.pdf
 
 resume.docx: resume.md
 	pandoc --from markdown --to docx -o resume.docx resume.md
