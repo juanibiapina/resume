@@ -11,7 +11,7 @@
 
 ## Summary
 
-I have 6 years of experience with web development. I have worked in many
+I have 7 years of experience with web development. I have worked in many
 different layers of software development, including backend, frontend, mobile
 and server automation. My main focus is back end and I advocate code quality,
 readability and maintainability. I include tests on my daily development
