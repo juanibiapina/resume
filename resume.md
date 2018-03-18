@@ -31,9 +31,13 @@ fluent in Portuguese and English and also a game and music enthusiast.
 
 ## Experience
 
+### Software Developer at Babbel
+
+<small>August 2017 - present</small>
+
 ### Software Developer at Movinga
 
-<small>Feb 2017 - present</small>
+<small>Feb 2017 - August 2017</small>
 
 I joined a team of full-stack developers at Movinga and immediately started
 working on a micro service and its three client applications. I was also

@@ -37,9 +37,13 @@ game and music enthusiast.
 
 Experience
 
+Software Developer at Babbel
+
+August 2017 - present
+
 Software Developer at Movinga
 
-Feb 2017 - present
+Feb 2017 - August 2017
 
 I joined a team of full-stack developers at Movinga and immediately
 started working on a micro service and its three client applications. I
