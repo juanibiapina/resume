@@ -5,8 +5,8 @@ JUAN IBIAPINA
 
   ------------------------
   juanibiapina@gmail.com
-  Porto Alegre, Brazil
-  +55 51 91820304
+  Berlin, Germany
+  +49 176 34464834
   ------------------------
 
 ------------------------------------------------------------------------
@@ -37,11 +37,26 @@ game and music enthusiast.
 
 Experience
 
-Software Developer at Babbel
+Senior Software Developer at Babbel
 
 August 2017 - present
 
-Software Developer at Movinga
+At Babbel I help build the APIs and platform support for the mobile and
+web clients. A big part of the work is conceiving good APIs that can be
+used by current and future company initiatives. I’m also participating
+on the microservice extraction at the company, as well as helping bring
+the development, testing, infrastructure and interviewing practices up
+to date. We deal with lots of AWS services and automated infrastructure.
+I am a major contributor to the process of migrating all of the user’s
+vocabulary from MySql to DynamoDB.
+
+Technologies:
+
+-   Ruby
+-   Rails, Terraform
+-   DynamoDB, AWS Batch, AWS DMS and many other platform AWS services
+
+Senior Full-Stack Software Developer at Movinga
 
 Feb 2017 - August 2017
 
@@ -60,7 +75,7 @@ Technologies:
     and backend
 -   AWS, Docker
 
-Software Developer at Globo.com
+Senior Software Developer at Globo.com
 
 May 2015 - Jan 2017
 
@@ -90,7 +105,7 @@ Technologies:
 -   Ffmpeg and x264
 -   Mongo and Redis
 
-Software Developer at Bearch, Inc.
+Senior Software Developer at Bearch, Inc.
 
 November 2014 - April 2015 _(6 months)_
 
