@@ -1,10 +1,10 @@
 all: resume.html resume.pdf resume.docx resume.txt
 
 resume.html: resume.md style.css
-	pandoc --standalone -c style.css --from markdown --to html --metadata title="Juan Ibiapina's Resume" -o resume.html resume.md
+	pandoc --standalone -c style.css --from markdown --to html --metadata pagetitle="Juan Ibiapina's Resume" -o resume.html resume.md
 
 resume.pdf: resume.html
-	wkhtmltopdf --disable-smart-shrinking --zoom 2.5 resume.html resume.pdf
+	wkhtmltopdf resume.html resume.pdf
 
 resume.docx: resume.md
 	pandoc --from markdown --to docx -o resume.docx resume.md
