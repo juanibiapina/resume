@@ -35,13 +35,28 @@ fluent in Portuguese and English and also a game and music enthusiast.
 
 <small>August 2017 - present</small>
 
+At Babbel I help build the APIs and platform support for the mobile and web
+clients. A big part of the work is conceiving good APIs that can be used by
+current and future company initiatives. I'm also participating on the
+microservice extraction at the company, as well as helping bring the
+development, testing, infrastructure and interviewing practices up to date. We
+deal with lots of AWS services and automated infrastructure. I am a major
+contributor to the process of migrating all of the user's vocabulary from MySql
+to DynamoDB.
+
+Technologies:
+
+- Ruby
+- Rails, Terraform
+- DynamoDB, AWS Batch, AWS DMS and many other platform AWS services
+
 ### Software Developer at Movinga
 
 <small>Feb 2017 - August 2017</small>
 
 I joined a team of full-stack developers at Movinga and immediately started
 working on a micro service and its three client applications. I was also
-responsible for starting  a couple of frontend applications from scratch. Later
+responsible for starting a couple of frontend applications from scratch. Later
 we extracted a pricing micro service from the main legacy code in order to
 improve deployment times, frequency (from once every two weeks to 10 times a
 day) and provide better insights about our prices.
