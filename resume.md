@@ -31,7 +31,7 @@ fluent in Portuguese and English and also a game and music enthusiast.
 
 ## Experience
 
-### Software Developer at Babbel
+### Senior Software Developer at Babbel
 
 <small>August 2017 - present</small>
 
@@ -50,7 +50,7 @@ Technologies:
 - Rails, Terraform
 - DynamoDB, AWS Batch, AWS DMS and many other platform AWS services
 
-### Software Developer at Movinga
+### Senior Full-Stack Software Developer at Movinga
 
 <small>Feb 2017 - August 2017</small>
 
@@ -68,7 +68,7 @@ Technologies:
   backend
 - AWS, Docker
 
-### Software Developer at Globo.com
+### Senior Software Developer at Globo.com
 
 <small>May 2015 - Jan 2017</small>
 
@@ -97,7 +97,7 @@ Technologies:
 - Ffmpeg and x264
 - Mongo and Redis
 
-### Software Developer at Bearch, Inc.
+### Senior Software Developer at Bearch, Inc.
 
 <small>November 2014 - April 2015 _(6 months)_</small>
 
