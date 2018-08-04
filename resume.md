@@ -3,8 +3,8 @@
 |                         |
 |:------------------------|
 | juanibiapina@gmail.com  |
-| Porto Alegre, Brazil    |
-| +55 51 91820304         |
+| Berlin, Germany         |
+| +49 176 34464834        |
 |                         |
 
 ---
