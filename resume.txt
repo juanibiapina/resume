@@ -32,24 +32,29 @@ game and music enthusiast.
 
 Experience
 
-Senior Software Developer at Babbel
+Principal Software Developer at Babbel
 
 August 2017 - present
 
-At Babbel I help build the APIs and platform support for the mobile and
-web clients. A big part of the work is conceiving good APIs that can be
-used by current and future company initiatives. I’m also participating
-on the microservice extraction at the company, as well as helping bring
-the development, testing, infrastructure and interviewing practices up
-to date. We deal with lots of AWS services and automated infrastructure.
-I am a major contributor to the process of migrating all of the user’s
-vocabulary from MySql to DynamoDB.
+At Babbel I help build APIs and platform support for mobile and web
+clients. A big part of the work is designing good APIs that can be used
+by current and future company initiatives. I’m also participating on the
+microservice extraction initiative, as well as helping bring the
+development, testing, infrastructure and interviewing practices up to
+date. We deal with lots of AWS services and automated infrastructure. I
+was a major contributor to migration of user’s vocabulary from MySql to
+DynamoDB.
+
+I also contribute to Babbel’s engineering strategy, helping teams become
+more autonomous and spreading knowledge about content distribution and
+overall architecture. My work in this area resulted in my promotion to
+Principal.
 
 Technologies:
 
 -   Ruby
 -   Rails, Terraform
--   DynamoDB, AWS Batch, AWS DMS and many other platform AWS services
+-   DynamoDB, AWS Batch, AWS DMS and many other AWS services
 
 Senior Full-Stack Software Developer at Movinga
 
