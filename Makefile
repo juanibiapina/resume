@@ -4,7 +4,7 @@ resume.html: resume.md style.css
 	pandoc --standalone -c style.css --from markdown --to html --metadata pagetitle="Juan Ibiapina's Resume" -o resume.html resume.md
 
 resume.pdf: resume.html
-	wkhtmltopdf resume.html resume.pdf
+	wkhtmltopdf --enable-local-file-access resume.html resume.pdf
 
 resume.docx: resume.md
 	pandoc --from markdown --to docx -o resume.docx resume.md
