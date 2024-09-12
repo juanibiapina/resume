@@ -4,7 +4,6 @@
 |:------------------------|
 | juanibiapina@gmail.com  |
 | Berlin, Germany         |
-| +49 176 34464834        |
 |                         |
 
 ---
