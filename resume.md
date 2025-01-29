@@ -10,15 +10,15 @@
 
 ## Summary
 
-I have 8 years of experience with web development. I have worked in many
-different layers of software development, including backend, frontend, mobile
-and infrastructure. My main focus is backend and I advocate code quality,
-readability and maintainability. I include tests on my daily development
-practice, along with TDD and refactoring.
+I have 14 years of experience developing software professionally. I have worked
+in many different layers of software development, including backend, frontend,
+mobile and infrastructure. My main focus is backend and I advocate code
+quality, readability and maintainability. I include tests on my daily
+development practice, along with TDD and refactoring.
 
-My main skill is learning, and I like to stretch it in daily challenging
-situations. I was lucky to have had the opportunity to join my first three jobs
-without knowledge of the technologies involved and have learned them. I love
+My main skill is learning, and I like to stretch it in challenging situations.
+I was lucky to have had the opportunity to join my first three jobs without
+knowledge of the technologies involved and have learned them. I love
 environments where I can grow, surrounded by smart and interesting people.
 
 I love to code, and more specifically, I love programming languages and

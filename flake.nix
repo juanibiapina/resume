@@ -31,7 +31,7 @@ outputs = { self, nixpkgs, devenv, systems, ... } @ inputs:
               {
                 packages = with pkgs; [
                   pandoc
-                  wkhtmltopdf
+                  python312Packages.weasyprint
                 ];
               }
             ];
