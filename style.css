@@ -166,16 +166,6 @@ p {
     margin-bottom: 1em;
 }
 
-a {
-    text-decoration: none;
-    color: #397249;
-}
-a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
-}
 
 /* separator line */
 hr {
@@ -183,11 +173,4 @@ hr {
   border: none;
   height: 1px;
     color: #A6A6A6;
-}
-
-/* used for icon links */
-.icon {
-  width: 20px;
-  height: 20px;
-  opacity: 75%;
 }

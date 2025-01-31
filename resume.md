@@ -7,35 +7,35 @@
 ||
 ||
 ||
-| [<img src="assets/github.svg" class="icon">](https://github.com/juanibiapina) [<img src="assets/linkedin.svg" class="icon">](https://www.linkedin.com/in/juan-i-10025313/) [<img src="assets/soundcloud.svg" class="icon">](https://soundcloud.com/juan-ibiapina) |
+| [<img src="assets/github.svg" width="20px" height="20px" style="opacity: 75%">](https://github.com/juanibiapina) [<img src="assets/linkedin.svg" width="20px" height="20px" style="opacity: 75%">](https://www.linkedin.com/in/juan-i-10025313/) [<img src="assets/soundcloud.svg" width="20px" height="20px" style="opacity: 75%">](https://soundcloud.com/juan-ibiapina) |
 
 ---
 
 ## About me
 
-I have 14 years of experience developing software professionally. I have worked
-in many different layers of software development, including backend, frontend,
-mobile and infrastructure. I advocate code quality, readability and
-maintainability. Tests are part of my development practices, along with TDD and
-refactoring. I’m confident working with small and fast delivery, continuous
-integration and many agile ideas. I also have experience designing distributed
-services, microservices and REST APIs. I'm a big fan of observability.
+I have **14 years of experience** developing software professionally. I have worked
+in many different layers of software development, including **backend**, **frontend**,
+mobile and infrastructure, although I focus on backend. I advocate **code quality**, readability and
+maintainability. **Tests** are part of my development practices, along with **TDD** and
+refactoring. I’m confident working with small and **fast delivery**, **continuous
+integration** and many **agile** ideas. I also have experience designing distributed
+services, microservices and **REST APIs**. I'm a big fan of **observability**.
 
 I like environments where I can grow, surrounded by smart and interesting
-people. I like to work with respectful, open-minded people who care about their
-systems, tools and code.
+people. I like to work with **respectful**, **open-minded** people who care
+about their systems, tools and code.
 
-I love to code! I'm a terminal and neovim user. I often learn new programming
+I love to **code**! I'm a **terminal** and **neovim** user. I often learn new programming
 languages, frameworks and technologies in my free time. I have experimented
 with many programming languages including SML, Python, Ruby, Haskell, Scala,
-Go, Rust, Racket, Bash, Clojure, IO, Javascript, Typescript and many others. I
+**Go**, Rust, Racket, Bash, Clojure, IO, Javascript, Typescript and many others. I
 even designed my own language [marco](https://github.com/juanibiapina/marco). I
 always have at least one active coding side project. You can find more details
 about personal projects, passions and open source on my [Github
 Profile](https://github.com/juanibiapina/) and my
 [blog](https://juanibiapina.github.io/)
 
-I’m also a game, music and climbing enthusiast.
+I’m also a **game**, **music** and **climbing** enthusiast.
 
 ## Experience
 
@@ -43,13 +43,14 @@ I’m also a game, music and climbing enthusiast.
 
 <small>August 2017 - present</small>
 
-As a Principal at Babbel, I work in the Content Platform team, supporting the
-learning content CMS and related content distribution APIs for all our internal
+As a **Principal** at Babbel, I work in the **Content Platform** team, supporting the
+learning content CMS and related content distribution **APIs** for all our internal
 clients (mainly web and mobile, but also other backends and data). I design or
-help design cross-team content related initiatives, always striving for small
+help design **cross-team** content related initiatives, always striving for small
 deliverables that bring value to users and allow teams to work independently.
 
 Previous achievements:
+
 - Designed content APIs for current and future company initiatives, focusing on changeability.
 - Actively drove or participated in many topics on our service extraction initiative.
 - Helped improve development, testing, dependency management, infrastructure and interviewing practices.
