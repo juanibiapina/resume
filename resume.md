@@ -9,13 +9,14 @@
 
 ## About me
 
-I have **14 years of experience** developing software professionally. I have worked
-in many different layers of software development, including **backend**, **frontend**,
-mobile and infrastructure, although I focus on backend. I advocate **code quality**, readability and
-maintainability. **Tests** are part of my development practices, along with **TDD** and
-refactoring. I’m confident working with small and **fast delivery**, **continuous
-integration** and many **agile** ideas. I also have experience designing distributed
-services, microservices and **REST APIs**. I'm a big fan of **observability**.
+I have **14 years of experience** developing software professionally. I have
+worked in many different layers of software development, including **backend**,
+**frontend**, mobile and infrastructure, although I focus on backend. I
+advocate **code quality**, readability and maintainability. **Tests** are part
+of my development practices, along with **TDD** and refactoring. I’m confident
+working with **agile** practices that enable **fast delivery** in small
+increments. I also have experience designing distributed services,
+microservices and **REST APIs**. I'm a big fan of **observability**.
 
 I like environments where I can grow, surrounded by smart and interesting
 people. I like to work with **respectful**, **open-minded** people who care
