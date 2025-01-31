@@ -19,16 +19,17 @@ integration and many agile ideas. I also have experience designing distributed
 services, microservices and REST APIs. I'm a big fan of observability.
 
 I like environments where I can grow, surrounded by smart and interesting
-people. I like to work with respectful, open minded people who care about their
-systems and the code.
+people. I like to work with respectful, open-minded people who care about their
+systems, tools and code.
 
-I love to code! I often learn new programming languages, frameworks and
-technologies in my free time. I have experimented with many programming
-languages including SML, Python, Ruby, Haskell, Scala, Go, Rust, Racket, Bash,
-Clojure, IO, Javascript, Typescript and many others. I even designed my own
-language [marco](https://github.com/juanibiapina/marco). I always have coding
-side projects. You can find more details about personal projects, passions and
-open source on my [Github Profile](https://github.com/juanibiapina/) and my
+I love to code! I'm a terminal and neovim user. I often learn new programming
+languages, frameworks and technologies in my free time. I have experimented
+with many programming languages including SML, Python, Ruby, Haskell, Scala,
+Go, Rust, Racket, Bash, Clojure, IO, Javascript, Typescript and many others. I
+even designed my own language [marco](https://github.com/juanibiapina/marco). I
+always have at least one active coding side project. You can find more details
+about personal projects, passions and open source on my [Github
+Profile](https://github.com/juanibiapina/) and my
 [blog](https://juanibiapina.github.io/)
 
 I’m also a game, music and climbing enthusiast.
@@ -39,32 +40,36 @@ I’m also a game, music and climbing enthusiast.
 
 <small>August 2017 - present</small>
 
-At Babbel I help build APIs and platform support for mobile and web clients. A
-big part of the work is designing good APIs that can be used by current and
-future company initiatives. I'm also participating on the microservice
-extraction initiative, as well as helping bring the development, testing,
-infrastructure and interviewing practices up to date. We deal with lots of AWS
-services and automated infrastructure. I was a major contributor to migration
-of user's vocabulary from MySql to DynamoDB.
+As a Principal at Babbel, I work in the Content Platform team, supporting the
+learning content CMS and related content distribution APIs for all our internal
+clients (mainly web and mobile, but also other backends and data). I design or
+help design cross-team content related initiatives, always striving for small
+deliverables that bring value to users and allow teams to work independently.
 
-I also contribute to Babbel's engineering strategy, helping teams become more
-autonomous and spreading knowledge about content distribution and overall
-architecture. My work in this area resulted in my promotion to Principal.
+Previous achievements:
+- Designed content APIs for current and future company initiatives, focusing on changeability.
+- Actively drove or participated in many topics on our service extraction initiative.
+- Helped improve development, testing, dependency management, infrastructure and interviewing practices.
+- I was a major contributor to the migration of user's vocabulary from MySql to DynamoDB.
+- Contributed to Babbel's engineering strategy, helping teams become more autonomous.
+- Spread knowledge about content distribution and overall architecture through documentation and workshops.
+- Mentored developers from Junior to Senior.
 
 Technologies:
 
-- Ruby
-- Rails, Terraform
-- DynamoDB, AWS Batch, AWS DMS and many other AWS services
+- Ruby, Typescript and Go
+- Rails, React
+- Terraform
+- AWS Lambda, DynamoDB, Cloudwatch and many other services
 
 ### Senior Full-Stack Software Developer at Movinga
 
 <small>Feb 2017 - August 2017</small>
 
 I joined a team of full-stack developers at Movinga and immediately started
-working on a micro service and its three client applications. I was also
+working on a microservice and its three client applications. I was also
 responsible for starting a couple of frontend applications from scratch. Later
-we extracted a pricing micro service from the main legacy code in order to
+we extracted a pricing microservice from the main legacy code in order to
 improve deployment times, frequency (from once every two weeks to 10 times a
 day) and provide better insights about our prices.
 
@@ -89,11 +94,9 @@ a thousand hours of content.
 
 Accomplishments:
 
-- Designed a content protection microservice that integrates with 3 third party
-    APIs
+- Designed a content protection microservice that integrates with 3 third party APIs
 - Participated on hiring interviews for most people hired in the Porto Alegre office
-- Started an initiative to gather video encoding metrics and better understand
-    our system
+- Started an observability initiative to gather video encoding metrics and better understand our system
 - Helped shape the office culture
 - Mentored less experienced developers
 
@@ -110,17 +113,14 @@ Technologies:
 
 We developed an anonymous social network. The whole team worked with all parts
 of the development, so I had the opportunity to work with a Go backend hosted
-on Google App Engine, an Android and an IoS application. All of these
+on Google App Engine, an Android and an iOS application. All of these
 technologies were new to me.
 
 Accomplishments:
 
-- Shipped a huge amount of features in very little time due to our experimental
-    nature
-- Created a pipeline for building and deploying android and IoS apps to their
-    respective stores, improving the testing and release cycles
-- Created a camera for Android that worked on more devices than the Whatsapp
-    Camera
+- Shipped a huge amount of features in very little time due to our experimental nature
+- Created a pipeline for building and deploying android and iOS apps to their respective stores, improving the testing and release cycles
+- Created a camera for Android that worked on more devices than the Whatsapp Camera at the time
 - Worked daily with unknown technologies and new challenges
 
 Technologies:
@@ -128,7 +128,7 @@ Technologies:
 - Go on Google App Engine
 - Javascript with Angular
 - Android with Java
-- IoS with Objective C
+- iOS with Objective C
 
 ### Software Developer at e-Core
 
@@ -141,8 +141,7 @@ could change very fast.
 
 Accomplishments:
 
-- Automated the deployment process and reduced the total time from 2 hours down
-    to 160 seconds.
+- Automated the deployment process and reduced the total time from 2 hours down to 160 seconds.
 - Helped migrate a legacy application from Grails to Rails
 - Experimented with virtual machines, docker and several deployment strategies
 
@@ -174,7 +173,7 @@ Accomplishments:
 
 - Migrated an application from rails 2 to rails 4
 - Helped shape the office culture
-- Developed a project alone from conception to delivery
+- Developed a project from conception to delivery
 
 Technologies:
 
@@ -199,8 +198,7 @@ Accomplishments:
 - Started an initiative to improve development and feedback cycles
 - Introduced Javascript unit tests into the project
 - Started a culture of looking into build status
-- Extended the development tools, greatly improving development speed and team
-    motivation
+- Extended the development tools, greatly improving development speed and team motivation
 - Acquired the trust of some of the clients, making our work much easier
 - Participated on ThoughtWorks University, which changed my life
 - Started learning about interviewing candidates
