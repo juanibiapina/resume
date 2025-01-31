@@ -40,11 +40,12 @@ I’m also a **game**, **music** and **climbing** enthusiast.
 
 <small>August 2017 - present</small>
 
-As a **Principal** at Babbel, I work in the **Content Platform** team, supporting the
-learning content CMS and related content distribution **APIs** for all our internal
-clients (mainly web and mobile, but also other backends and data). I design or
-help design **cross-team** content related initiatives, always striving for small
-deliverables that bring value to users and allow teams to work independently.
+As a **Principal** at Babbel, I work in the **Content Platform** team,
+supporting the learning content CMS and related content distribution **APIs**
+for all our internal clients (mainly web and mobile, but also other backends
+and data). I design **cross-team** content related architecture, always
+striving for small deliverables that bring value to users and allow teams to
+work independently.
 
 Previous achievements:
 
