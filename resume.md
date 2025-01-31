@@ -86,10 +86,11 @@ Technologies:
 
 <small>May 2015 - Jan 2017</small>
 
-I joined Globo.com to work on the web media platform team. Our team was
-responsible for receiving and encoding videos to be prepared for internet
-delivery. We worked on a system that provided both an UI and an API for
-uploading videos and metadata. This system was distributed in more than 50
+I joined Globo.com to work on the web media platform team. Globo is the biggest
+television channel in Brazil. As part of its technology team, we were
+responsible for ingesting raw television content videos and encoding them for
+online streaming. We worked on a system that provided both an UI and an API
+for uploading videos and metadata. This system was distributed in more than 50
 locations across Brazil, gathering and processing videos from all partners. We
 processed more than 2.5TB of videos on a weekly basis, accounting for more than
 a thousand hours of content.
