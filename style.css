@@ -174,3 +174,10 @@ hr {
   height: 1px;
     color: #A6A6A6;
 }
+
+/* used for icon links */
+.icon {
+  width: 20px;
+  height: 20px;
+  opacity: 75%;
+}
