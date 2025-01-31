@@ -8,26 +8,30 @@
 
 ---
 
-## Summary
+## About me
 
 I have 14 years of experience developing software professionally. I have worked
 in many different layers of software development, including backend, frontend,
-mobile and infrastructure. My main focus is backend and I advocate code
-quality, readability and maintainability. I include tests on my daily
-development practice, along with TDD and refactoring.
+mobile and infrastructure. I advocate code quality, readability and
+maintainability. Tests are part of my development practices, along with TDD and
+refactoring. I’m confident working with small and fast delivery, continuous
+integration and many agile ideas. I also have experience designing distributed
+services, microservices and REST APIs. I'm a big fan of observability.
 
-My main skill is learning, and I like to stretch it in challenging situations.
-I was lucky to have had the opportunity to join my first three jobs without
-knowledge of the technologies involved and have learned them. I love
-environments where I can grow, surrounded by smart and interesting people.
+I like environments where I can grow, surrounded by smart and interesting
+people. I like to work with respectful, open minded people who care about their
+systems and the code.
 
-I love to code, and more specifically, I love programming languages and
-paradigms. In my free time, I have experimented with many programming languages
-and technologies, including SML, Python, Ruby, Haskell, Scala, Go, Rust,
-Racket, Bash, Clojure, etc and even designed my own language. I’m also
-confident working with fast delivery, continuous integration and many agile
-ideas. I’m fluent in Portuguese and English and also a game and music
-enthusiast.
+I love to code! I often learn new programming languages, frameworks and
+technologies in my free time. I have experimented with many programming
+languages including SML, Python, Ruby, Haskell, Scala, Go, Rust, Racket, Bash,
+Clojure, IO, Javascript, Typescript and many others. I even designed my own
+language [marco](https://github.com/juanibiapina/marco). I always have coding
+side projects. You can find more details about personal projects, passions and
+open source on my [Github Profile](https://github.com/juanibiapina/) and my
+[blog](https://juanibiapina.github.io/)
+
+I’m also a game, music and climbing enthusiast.
 
 ## Experience
 
