@@ -1,8 +1,7 @@
 # Juan Ibiapina
 
-|                                 |
-|:--------------------------------|
 | juanibiapina@gmail.com          |
+|:--------------------------------|
 | Berlin, Germany                 |
 | [<img src="assets/github.svg" width="20px" height="20px" style="opacity: 75%">](https://github.com/juanibiapina) [<img src="assets/linkedin.svg" width="20px" height="20px" style="opacity: 75%">](https://www.linkedin.com/in/juan-i-10025313/) [<img src="assets/soundcloud.svg" width="20px" height="20px" style="opacity: 75%">](https://soundcloud.com/juan-ibiapina) |
 
