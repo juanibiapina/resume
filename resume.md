@@ -21,13 +21,14 @@ I like environments where I can grow, surrounded by smart and interesting
 people. I like to work with **respectful**, **open-minded** people who care
 about their systems, tools and code.
 
-I love to **code**! I'm a **terminal** and **neovim** user. I often learn new programming
-languages, frameworks and technologies in my free time. I have experimented
-with many programming languages including SML, Python, Ruby, Haskell, Scala,
-**Go**, Rust, Racket, Bash, Clojure, IO, Javascript, Typescript and many others. I
-even designed my own language [marco](https://github.com/juanibiapina/marco). I
-always have at least one active coding side project. You can find more details
-about personal projects, passions and open source on my [Github
+I love to **code**! I'm a **NixOS**, **terminal** and **neovim** user. I often
+learn new programming languages, frameworks and technologies in my free time. I
+have experimented with many programming languages including SML, Python, Ruby,
+Haskell, Scala, **Go**, Rust, Racket, Bash, Clojure, IO, Javascript, Typescript
+and many others. I even designed my own language
+[marco](https://github.com/juanibiapina/marco). I always have at least one
+active coding side project. You can find more details about personal projects,
+passions and open source on my [Github
 Profile](https://github.com/juanibiapina/) and my
 [blog](https://juanibiapina.github.io/)
 
@@ -47,13 +48,13 @@ deliverables that bring value to users and allow teams to work independently.
 
 Previous achievements:
 
-- Designed content APIs for current and future company initiatives, focusing on changeability.
-- Actively drove or participated in many topics on our service extraction initiative.
-- Helped improve development, testing, dependency management, infrastructure and interviewing practices.
+- Designed content APIs for current and future company initiatives, focusing on **changeability**.
+- Actively drove or participated in many topics on our **service extraction** initiative.
+- Helped improve **development**, **testing**, **dependency management**, infrastructure and interviewing practices.
 - I was a major contributor to the migration of user's vocabulary from MySql to DynamoDB.
-- Contributed to Babbel's engineering strategy, helping teams become more autonomous.
-- Spread knowledge about content distribution and overall architecture through documentation and workshops.
-- Mentored developers from Junior to Senior.
+- Contributed to Babbel's **engineering strategy**, helping teams become more **autonomous**.
+- Spread knowledge about content distribution and overall architecture through documentation and **workshops**.
+- **Mentored** developers from Junior to Senior.
 
 Technologies:
 
