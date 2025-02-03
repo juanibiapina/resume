@@ -24,15 +24,18 @@ I like environments that support **growth**, working along with **smart**,
 and code.
 
 I love to **code**! I'm a **NixOS**, **terminal** and **neovim** user. I often
-learn new programming languages, frameworks and technologies in my free time. I
-have experimented with many programming languages including SML, Python,
-**Ruby**, Haskell, Scala, **Go**, Rust, Racket, Bash, Clojure, IO, Javascript,
-**Typescript** and many others. I designed my own toy language
-[marco](https://github.com/juanibiapina/marco). I try to keep at least one
-active coding side project. You can find more details about personal projects,
-passions and open source on my [Github
+learn new programming languages, frameworks and technologies. I have worked
+professionally with Java, Javascript, **Typescript**, **Ruby** and **Go**, but
+have also experimented with SML, Python, Haskell, Scala, Rust, Racket, Bash,
+Clojure, IO, and many others. I designed [my own toy
+language](https://github.com/juanibiapina/marco), a [package manager for
+Bash](https://github.com/basherpm/basher) and an [organizer for command line
+scripts](https://github.com/juanibiapina/sub) that I use as part of my [12
+years old dotfiles](https://github.com/juanibiapina/dotfiles). I try to keep at
+least one active coding side project. You can find more details about personal
+projects, passions and open source on my [Github
 Profile](https://github.com/juanibiapina/) and my
-[blog](https://juanibiapina.github.io/)
+[blog](https://juanibiapina.github.io/).
 
 I’m also a **game**, **music** and **climbing** enthusiast.
 
