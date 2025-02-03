@@ -54,28 +54,29 @@ href="https://soundcloud.com/juan-ibiapina"><img src="assets/soundcloud.svg" wid
 <p>I have <strong>14 years of experience</strong> developing software
 professionally. I have worked in many different layers of software
 development, including <strong>backend</strong>,
-<strong>frontend</strong>, mobile and infrastructure, although I focus
-on backend. I advocate <strong>code quality</strong>, readability and
-maintainability. <strong>Tests</strong> are part of my development
+<strong>frontend</strong>, mobile and infrastructure, with focus on
+backend. I advocate <strong>code quality</strong> and <strong>continuous
+delivery</strong>. <strong>Tests</strong> are part of my development
 practices, along with <strong>TDD</strong> and refactoring. I’m
 confident working with <strong>agile</strong> practices that enable
 <strong>fast delivery</strong> in small increments. I also have
 experience designing distributed services, microservices and
-<strong>REST APIs</strong>. I’m a big fan of
-<strong>observability</strong>.</p>
-<p>I like environments where I can grow, surrounded by smart and
-interesting people. I like to work with <strong>respectful</strong>,
+<strong>REST APIs</strong>. I’m a big fan of <strong>tooling</strong>
+and <strong>observability</strong>.</p>
+<p>I like environments that support <strong>growth</strong>, working
+along with <strong>smart</strong>, <strong>respectful</strong> and
 <strong>open-minded</strong> people who care about their systems, tools
 and code.</p>
 <p>I love to <strong>code</strong>! I’m a <strong>NixOS</strong>,
 <strong>terminal</strong> and <strong>neovim</strong> user. I often
 learn new programming languages, frameworks and technologies in my free
 time. I have experimented with many programming languages including SML,
-Python, Ruby, Haskell, Scala, <strong>Go</strong>, Rust, Racket, Bash,
-Clojure, IO, Javascript, Typescript and many others. I even designed my
-own language <a href="https://github.com/juanibiapina/marco">marco</a>.
-I always have at least one active coding side project. You can find more
-details about personal projects, passions and open source on my <a
+Python, <strong>Ruby</strong>, Haskell, Scala, <strong>Go</strong>,
+Rust, Racket, Bash, Clojure, IO, Javascript, <strong>Typescript</strong>
+and many others. I designed my own toy language <a
+href="https://github.com/juanibiapina/marco">marco</a>. I try to keep at
+least one active coding side project. You can find more details about
+personal projects, passions and open source on my <a
 href="https://github.com/juanibiapina/">Github Profile</a> and my <a
 href="https://juanibiapina.github.io/">blog</a></p>
 <p>I’m also a <strong>game</strong>, <strong>music</strong> and
@@ -84,29 +85,76 @@ href="https://juanibiapina.github.io/">blog</a></p>
 <h3 id="principal-software-developer-at-babbel">Principal Software
 Developer at Babbel</h3>
 <p><small>August 2017 - present</small></p>
-<p>As a <strong>Principal</strong> at Babbel, I work in the
-<strong>Content Platform</strong> team, supporting the learning content
-CMS and related content distribution <strong>APIs</strong>. I design
-<strong>cross-team architecture</strong>, always striving for
-<strong>small deliverables</strong> that bring value to users and allow
-teams to achieve their <strong>goals</strong> and work
-independently.</p>
-<p>Previous achievements:</p>
+<p>As a Principal at Babbel, I work in the Content Platform team,
+developing the learning content CMS and related content distribution
+<strong>APIs</strong>. We design <strong>cross-team
+architecture</strong>, striving for <strong>small deliverables</strong>
+that bring value to users and allow teams to achieve their
+<strong>goals</strong> and work <strong>independently</strong>.</p>
+<p>Achievements:</p>
 <ul>
-<li>Designed content APIs for current and future company initiatives,
-focusing on <strong>changeability</strong>.</li>
-<li>Actively drove or participated in many topics on our <strong>service
-extraction</strong> initiative.</li>
-<li>Helped improve <strong>development</strong>,
-<strong>testing</strong>, <strong>dependency management</strong>,
-infrastructure and interviewing practices.</li>
-<li>I was a major contributor to the migration of user’s vocabulary from
-MySql to DynamoDB.</li>
-<li>Contributed to Babbel’s <strong>engineering strategy</strong>,
-helping teams become more <strong>autonomous</strong>.</li>
-<li>Spread knowledge about content distribution and overall architecture
-through documentation and <strong>workshops</strong>.</li>
-<li><strong>Mentored</strong> developers from Junior to Senior.</li>
+<li><strong>Content Pipeline</strong>: Designed an integration between
+Babbel’s <strong>CMS</strong> and <strong>Contentful</strong>, enabling
+fast creation of content for new learning experiences. This system now
+holds content for more than 20 learning experiences, fulfilling the
+company goal of experimenting with new forms of learning. Teams can
+<strong>autonomously</strong> create new types through Pull Requests.
+All content is <strong>Git</strong> versioned and
+<strong>immutable</strong>.</li>
+<li><strong>Content Deployment</strong>: Led a multi-year project to
+enable content editors to deploy content. Through a series of
+<strong>modeling</strong> changes, API improvements,
+<strong>monitoring</strong>, data migrations, <strong>test</strong>
+improvements, education and even a Slack bot, Babbel went from one
+painful content deployment per quarter to several uneventful content
+deployments per week.</li>
+<li><strong>Content Modeling</strong>: Designed an extensible new data
+model for current and future Babbel content, inspired by
+<strong>NixOS</strong> and served through a <strong>GraphQL</strong>
+API. The new model is backwards compatible but also enables new use
+cases involving personalization and AI integration.</li>
+<li><strong>Content APIs</strong>: Designed <strong>RESTful</strong>
+content APIs for current and future company initiatives, focusing on
+<strong>performance</strong> and <strong>cacheability</strong>.</li>
+<li><strong>Workshops</strong>: Organized internal
+<strong>presentations</strong> and <strong>workshops</strong> about
+Babbel’s content domain and architecture, <strong>empowering</strong>
+other teams and content creators.</li>
+<li><strong>API Gateway tooling</strong>: Improved build times
+(<strong>from 15m to 5m</strong>) and tooling for Babbel’s main API
+Gateway, shared between teams. Developers can simply run
+<code>make</code> and all checks run locally using
+<strong>Docker</strong> with zero setup required. The same setup runs on
+<strong>CI</strong>.</li>
+<li><strong>Developer Documentation</strong>: Started a documentation
+initiative to create developer-friendly documentation in repositories.
+Many teams have adopted this practice and maintain Git versioned
+documentation.</li>
+<li><strong>User vocabulary migration</strong>: Migrated all user
+vocabulary from <strong>MySql</strong> to <strong>DynamoDB</strong>. It
+went from 7 unmaintainable, untested joins, to a performant and scalable
+single table design.</li>
+<li><strong>Service extraction</strong>: Actively drove or participated
+in many service extractions from the <strong>Rails</strong> monolith,
+including user vocabulary, content, authorization, b2b, accounts and
+user progress services.</li>
+<li><strong>API Tests</strong>: Wrote a suite of API Integration tests
+(mostly for myself, at the beginning). It has grown and is now a
+valuable tool used by many teams to find regressions.</li>
+<li><strong>Mentoring</strong>: Mentored junior, professional and senior
+developers, directly supporting their growth to higher roles, including
+several promotions to Principal.</li>
+<li><strong>Advice and support</strong>: Teams contact me on a weekly
+basis to discuss system design. Babbel already includes
+<strong>observability</strong> and <strong>automated
+infrastructure</strong> by default, so I often advise about sound
+<strong>domain entities</strong> with clear nomenclature, well defined
+system boundaries and responsibilities, <strong>small
+deliverables</strong>, and then small deliverables a few more
+times.</li>
+<li><strong>Principal Role</strong>: I was the first engineer to be
+promoted to Principal. I helped define the role and its responsibilities
+drawing from my own experience temporarily moving between teams.</li>
 </ul>
 <p>Technologies:</p>
 <ul>
@@ -176,8 +224,8 @@ experimental nature</li>
 <li>Created a pipeline for building and deploying android and iOS apps
 to their respective stores, improving the testing and release
 cycles</li>
-<li>Created a camera for Android that worked on more devices than the
-Whatsapp Camera at the time</li>
+<li>Created a camera for Android that worked on the new screen sizes
+being released at the time.</li>
 <li>Worked daily with unknown technologies and new challenges</li>
 </ul>
 <p>Technologies:</p>

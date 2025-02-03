@@ -11,23 +11,24 @@
 
 I have **14 years of experience** developing software professionally. I have
 worked in many different layers of software development, including **backend**,
-**frontend**, mobile and infrastructure, although I focus on backend. I
-advocate **code quality**, readability and maintainability. **Tests** are part
-of my development practices, along with **TDD** and refactoring. I’m confident
+**frontend**, mobile and infrastructure, with focus on backend. I advocate
+**code quality** and **continuous delivery**. **Tests** are part of my
+development practices, along with **TDD** and refactoring. I’m confident
 working with **agile** practices that enable **fast delivery** in small
 increments. I also have experience designing distributed services,
-microservices and **REST APIs**. I'm a big fan of **observability**.
+microservices and **REST APIs**. I'm a big fan of **tooling** and
+**observability**.
 
-I like environments where I can grow, surrounded by smart and interesting
-people. I like to work with **respectful**, **open-minded** people who care
-about their systems, tools and code.
+I like environments that support **growth**, working along with **smart**,
+**respectful** and **open-minded** people who care about their systems, tools
+and code.
 
 I love to **code**! I'm a **NixOS**, **terminal** and **neovim** user. I often
 learn new programming languages, frameworks and technologies in my free time. I
-have experimented with many programming languages including SML, Python, Ruby,
-Haskell, Scala, **Go**, Rust, Racket, Bash, Clojure, IO, Javascript, Typescript
-and many others. I even designed my own language
-[marco](https://github.com/juanibiapina/marco). I always have at least one
+have experimented with many programming languages including SML, Python,
+**Ruby**, Haskell, Scala, **Go**, Rust, Racket, Bash, Clojure, IO, Javascript,
+**Typescript** and many others. I designed my own toy language
+[marco](https://github.com/juanibiapina/marco). I try to keep at least one
 active coding side project. You can find more details about personal projects,
 passions and open source on my [Github
 Profile](https://github.com/juanibiapina/) and my
@@ -41,25 +42,66 @@ I’m also a **game**, **music** and **climbing** enthusiast.
 
 <small>August 2017 - present</small>
 
-As a **Principal** at Babbel, I work in the **Content Platform** team,
-supporting the learning content CMS and related content distribution **APIs**.
-I design **cross-team architecture**, always striving for **small
-deliverables** that bring value to users and allow teams to achieve their
-**goals** and work independently.
+As a Principal at Babbel, I work in the Content Platform team, developing the
+learning content CMS and related content distribution **APIs**. We design
+**cross-team architecture**, striving for **small deliverables** that bring
+value to users and allow teams to achieve their **goals** and work
+**independently**.
 
-Previous achievements:
+Achievements:
 
-- Designed content APIs for current and future company initiatives, focusing on **changeability**.
-- Actively drove or participated in many topics on our **service extraction** initiative.
-- Helped improve **development**, **testing**, **dependency management**, infrastructure and interviewing practices.
-- I was a major contributor to the migration of user's vocabulary from MySql to DynamoDB.
-- Contributed to Babbel's **engineering strategy**, helping teams become more **autonomous**.
-- Spread knowledge about content distribution and overall architecture through documentation and **workshops**.
-- **Mentored** developers from Junior to Senior.
+- **Content Pipeline**: Designed an integration between Babbel's **CMS** and
+  **Contentful**, enabling fast creation of content for new learning
+  experiences. This system now holds content for more than 20 learning
+  experiences, fulfilling the company goal of experimenting with new forms of
+  learning. Teams can **autonomously** create new types through Pull Requests.
+  All content is **Git** versioned and **immutable**.
+- **Content Deployment**: Led a multi-year project to enable content editors to
+  deploy content. Through a series of **modeling** changes, API improvements,
+  **monitoring**, data migrations, **test** improvements, education and even a Slack
+  bot, Babbel went from one painful content deployment per quarter to several
+  uneventful content deployments per week.
+- **Content Modeling**: Designed an extensible new data model for current and
+  future Babbel content, inspired by **NixOS** and served through a **GraphQL**
+  API. The new model is backwards compatible but also enables new use cases
+  involving personalization and AI integration.
+- **Content APIs**: Designed **RESTful** content APIs for current and future
+  company initiatives, focusing on **performance** and **cacheability**.
+- **Workshops**: Organized internal **presentations** and **workshops** about
+  Babbel's content domain and architecture, **empowering** other teams and
+  content creators.
+- **API Gateway tooling**: Improved build times (**from 15m to 5m**) and
+  tooling for Babbel's main API Gateway, shared between teams. Developers can
+  simply run `make` and all checks run locally using **Docker** with zero setup
+  required. The same setup runs on **CI**.
+- **Developer Documentation**: Started a documentation initiative to create
+  developer-friendly documentation in repositories. Many teams have adopted
+  this practice and maintain Git versioned documentation.
+- **User vocabulary migration**: Migrated all user vocabulary from **MySql** to
+  **DynamoDB**. It went from 7 unmaintainable, untested joins, to a performant
+  and scalable single table design.
+- **Service extraction**: Actively drove or participated in many service
+  extractions from the **Rails** monolith, including user vocabulary, content,
+  authorization, b2b, accounts and user progress **services**.
+- **API Tests**: Wrote a suite of **API Integration** tests (mostly for myself,
+  at the beginning). It has grown and is now a valuable tool used by many teams
+  to find regressions.
+- **Mentoring**: Mentored **junior**, **professional** and **senior** developers, directly
+  supporting their **growth** to higher roles, including several promotions to
+  **Principal**.
+- **Advice and support**: Teams contact me on a weekly basis to discuss system
+  design. Babbel already includes **observability** and **automated
+  infrastructure** by default, so I often advise about sound **domain
+  entities** with clear nomenclature, well defined **system boundaries** and
+  responsibilities, **small deliverables**, and then small deliverables a few
+  more times.
+- **Principal Role**: I was the first engineer to be promoted to Principal. I
+  helped define the role and its responsibilities drawing from my own
+  experience temporarily moving between teams.
 
 Technologies:
 
-- Ruby, Typescript and Go
+- Ruby, Typescript, Go
 - Rails, React
 - Terraform
 - AWS Lambda, DynamoDB, Cloudwatch and many other services
@@ -123,7 +165,7 @@ Accomplishments:
 
 - Shipped a huge amount of features in very little time due to our experimental nature
 - Created a pipeline for building and deploying android and iOS apps to their respective stores, improving the testing and release cycles
-- Created a camera for Android that worked on more devices than the Whatsapp Camera at the time
+- Created a camera for Android that worked on the new screen sizes being released at the time.
 - Worked daily with unknown technologies and new challenges
 
 Technologies:
