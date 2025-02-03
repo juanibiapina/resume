@@ -51,7 +51,7 @@ learning content CMS and related content distribution **APIs**. We design
 value to users and allow teams to achieve their **goals** and work
 **independently**.
 
-Achievements:
+Accomplishments:
 
 - **Content Pipeline**: Designed an integration between Babbel's **CMS** and
   **Contentful**, enabling fast creation of content for new learning
