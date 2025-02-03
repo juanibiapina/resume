@@ -89,9 +89,9 @@ Achievements:
 - **API Tests**: Wrote a suite of **API Integration** tests (mostly for myself,
   at the beginning). It has grown and is now a valuable tool used by many teams
   to find regressions.
-- **Mentoring**: Mentored **junior**, **professional** and **senior** developers, directly
-  supporting their **growth** to higher roles, including several promotions to
-  **Principal**.
+- **Mentoring**: Mentored **junior**, **professional** and **senior**
+  developers, directly supporting their **growth** to higher roles, including
+  several promotions to **Principal**.
 - **Advice and support**: Teams contact me on a weekly basis to discuss system
   design. Babbel already includes **observability** and **automated
   infrastructure** by default, so I often advise about sound **domain
