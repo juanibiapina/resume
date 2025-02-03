@@ -41,7 +41,7 @@ I’m also a **game**, **music** and **climbing** enthusiast.
 
 ## Experience
 
-### Principal Software Developer at Babbel
+### Principal Software Engineer at Babbel
 
 <small>August 2017 - present</small>
 
@@ -74,11 +74,11 @@ Accomplishments:
   Babbel's content domain and architecture, **empowering** other teams and
   content creators.
 - **API Gateway tooling**: Improved build times (**from 15m to 5m**) and
-  tooling for Babbel's main API Gateway, shared between teams. Developers can
+  tooling for Babbel's main API Gateway, shared between teams. Engineers can
   simply run `make` and all checks run locally using **Docker** with zero setup
   required. The same setup runs on **CI**.
-- **Developer Documentation**: Started a documentation initiative to create
-  developer-friendly documentation in repositories. Many teams have adopted
+- **Engineer-friendly Documentation**: Started a documentation initiative to create
+  engineer-friendly documentation in repositories. Many teams have adopted
   this practice and maintain Git versioned documentation.
 - **User vocabulary migration**: Migrated all user vocabulary from **MySql** to
   **DynamoDB**. It went from 7 unmaintainable, untested joins, to a performant
@@ -90,7 +90,7 @@ Accomplishments:
   at the beginning). It has grown and is now a valuable tool used by many teams
   to find regressions.
 - **Mentoring**: Mentored **junior**, **professional** and **senior**
-  developers, directly supporting their **growth** to higher roles, including
+  engineers, directly supporting their **growth** to higher roles, including
   several promotions to **Principal**.
 - **Advice and support**: Teams contact me on a weekly basis to discuss system
   design. Babbel already includes **observability** and **automated
@@ -109,11 +109,11 @@ Technologies:
 - Terraform
 - AWS Lambda, DynamoDB, Cloudwatch and many other services
 
-### Senior Full-Stack Software Developer at Movinga
+### Senior Full-Stack Software Engineer at Movinga
 
 <small>Feb 2017 - August 2017</small>
 
-I joined a team of full-stack developers at Movinga and immediately started
+I joined a team of full-stack engineers at Movinga and immediately started
 working on a microservice and its three client applications. I was also
 responsible for starting a couple of frontend applications from scratch. Later
 we extracted a pricing microservice from the main legacy code in order to
@@ -127,7 +127,7 @@ Technologies:
   backend
 - AWS, Docker
 
-### Senior Software Developer at Globo.com
+### Senior Software Engineer at Globo.com
 
 <small>May 2015 - Jan 2017</small>
 
@@ -146,7 +146,7 @@ Accomplishments:
 - Participated on hiring interviews for most people hired in the Porto Alegre office
 - Started an observability initiative to gather video encoding metrics and better understand our system
 - Helped shape the office culture
-- Mentored less experienced developers
+- Mentored less experienced engineers
 
 Technologies:
 
@@ -155,7 +155,7 @@ Technologies:
 - Ffmpeg and x264
 - Mongo and Redis
 
-### Senior Software Developer at Bearch, Inc.
+### Senior Software Engineer at Bearch, Inc.
 
 <small>November 2014 - April 2015 _(6 months)_</small>
 
@@ -178,7 +178,7 @@ Technologies:
 - Android with Java
 - iOS with Objective C
 
-### Software Developer at e-Core
+### Software Engineer at e-Core
 
 <small>March 2013 - November 2014 _(1 year 9 months)_</small>
 
@@ -203,12 +203,12 @@ Technologies:
 - VirtualBox, Docker
 - Nginx
 
-### Software Developer at Codeminer42
+### Software Engineer at Codeminer42
 
 <small>July 2012 - February 2013 _(8 months)_</small>
 
 We developed systems for startups. It was my first experience with Rails, but
-also included frontend development. Since each developer was responsible for
+also included frontend development. Since each engineer was responsible for
 managing a whole project, our responsibilities involved coding, creating
 interfaces, thinking about user experience, negotiating with clients, managing
 infrastructure and deployment, etc.
