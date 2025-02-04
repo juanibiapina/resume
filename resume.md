@@ -9,15 +9,15 @@
 
 ## About me
 
-I have **14 years of experience** developing software professionally. I have
-worked in many different layers of software development, including **backend**,
-**frontend**, mobile and infrastructure, with focus on backend. I advocate
-**code quality** and **continuous delivery**. **Tests** are part of my
-development practices, along with **TDD** and refactoring. I’m confident
-working with **agile** practices that enable **fast delivery** in small
-increments. I also have experience designing distributed services,
-microservices and **REST APIs**. I'm a big fan of **tooling** and
-**observability**.
+I have a **Computer Science** background and **14 years of experience**
+developing software professionally. I have worked in many different layers of
+software development, including **backend**, **frontend**, mobile and
+infrastructure, with focus on backend. I advocate **code quality** and
+**continuous delivery**. **Tests** are part of my development practices, along
+with **TDD** and refactoring. I’m confident working with **agile** practices
+that enable **fast delivery** in small increments. I also have experience
+designing distributed services, microservices and **REST APIs**. I'm a big fan
+of **tooling** and **observability**.
 
 I like environments that support **growth**, working along with **smart**,
 **respectful** and **open-minded** people who care about their systems, tools
@@ -49,7 +49,8 @@ As a Principal at Babbel, I work in the Content Platform team, developing the
 learning content CMS and related content distribution **APIs**. We design
 **cross-team architecture**, striving for **small deliverables** that bring
 value to users and allow teams to achieve their **goals** and work
-**independently**.
+**independently**. This is mostly **remote work**, but we like to meet once per
+week.
 
 Accomplishments:
 
@@ -97,7 +98,7 @@ Accomplishments:
   infrastructure** by default, so I often advise about sound **domain
   entities** with clear nomenclature, well defined **system boundaries** and
   responsibilities, **small deliverables**, and then small deliverables a few
-  more times.
+  more times because the **project only starts once it's in production**.
 - **Principal Role**: I was the first engineer to be promoted to Principal. I
   helped define the role and its responsibilities drawing from my own
   experience temporarily moving between teams.
@@ -108,6 +109,7 @@ Technologies:
 - Rails, React
 - Terraform
 - AWS Lambda, DynamoDB, Cloudwatch and many other services
+- Datadog, Rollbar
 
 ### Senior Full-Stack Software Engineer at Movinga
 
