@@ -13,3 +13,10 @@ jobs:
 
       - name: Build CV
         run: nix build
+
+      - name: Upload PDF to Release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          file: result/resume.pdf
+          tag: latest
+          overwrite: true
