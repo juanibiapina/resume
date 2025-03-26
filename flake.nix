@@ -15,7 +15,6 @@
   outputs = { nixpkgs, altacv, ... }:
     let
       system = "x86_64-linux";
-      pkgs = nixpkgs.legacyPackages.${system};
       resumeFile = "resume";
     in {
       packages.${system}.default = with import nixpkgs { inherit system; };
@@ -43,7 +42,5 @@
             cp ${resumeFile}.pdf $out/${resumeFile}.pdf
           '';
         };
-
-      devShells.x86_64-linux.default = import ./shell.nix { inherit pkgs; };
     };
 }
