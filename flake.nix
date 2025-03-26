@@ -1,41 +1,49 @@
 {
-inputs = {
-  nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-  systems.url = "github:nix-systems/default";
-  devenv.url = "github:cachix/devenv";
-};
+  description = "My personal curriculum vitae";
 
-nixConfig = {
-  extra-trusted-public-keys = "devenv.cachix.org-1:w1cLUi8dv3hnoSPGAuibQv+f9TZLr6cv/Hm9XgU50cw=";
-  extra-substituters = "https://devenv.cachix.org";
-};
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
-outputs = { self, nixpkgs, devenv, systems, ... } @ inputs:
-  let
-    forEachSystem = nixpkgs.lib.genAttrs (import systems);
-  in
-  {
-    packages = forEachSystem (system: {
-      devenv-up = self.devShells.${system}.default.config.procfileScript;
-    });
-
-    devShells = forEachSystem
-      (system:
-        let
-          pkgs = nixpkgs.legacyPackages.${system};
-        in
-        {
-          default = devenv.lib.mkShell {
-            inherit inputs pkgs;
-            modules = [
-              {
-                packages = with pkgs; [
-                  pandoc
-                  python312Packages.weasyprint
-                ];
-              }
-            ];
-          };
-        });
+    altacv = {
+      type = "github";
+      owner = "liantze";
+      repo = "AltaCV";
+      flake = false;
+    };
   };
+
+  outputs = { nixpkgs, altacv, ... }:
+    let
+      system = "x86_64-linux";
+      pkgs = nixpkgs.legacyPackages.${system};
+      resumeFile = "resume";
+    in {
+      packages.${system}.default = with import nixpkgs { inherit system; };
+        stdenv.mkDerivation {
+          name = resumeFile;
+
+          src = ./.;
+
+          #NOTE: Should use pandoc so that we can also convert to html version?
+          nativeBuildInputs = [
+            texliveFull
+          ];
+
+          buildPhase = ''
+            cp  ${altacv}/*.cls ${altacv}/*.cfg .
+
+            # lualatex needs writable HOME to store tmp files
+            export HOME=$(mktemp -d)
+            echo $HOME
+            lualatex ${resumeFile}.tex
+          '';
+
+          installPhase = ''
+            mkdir $out
+            cp ${resumeFile}.pdf $out/${resumeFile}.pdf
+          '';
+        };
+
+      devShells.x86_64-linux.default = import ./shell.nix { inherit pkgs; };
+    };
 }
