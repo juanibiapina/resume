@@ -23,7 +23,6 @@
 
           src = ./.;
 
-          #NOTE: Should use pandoc so that we can also convert to html version?
           nativeBuildInputs = [
             texliveFull
           ];
@@ -34,7 +33,7 @@
             # lualatex needs writable HOME to store tmp files
             export HOME=$(mktemp -d)
             echo $HOME
-            lualatex ${resumeFile}.tex
+            lualatex src/${resumeFile}.tex
           '';
 
           installPhase = ''
