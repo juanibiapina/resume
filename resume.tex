@@ -94,9 +94,12 @@
 %% sample.bib contains your publications
 %\addbibresource{sample.bib}
 
+% Disable hyphenation
+\usepackage[none]{hyphenat}
+
 \begin{document}
 \name{Juan Ibiapina}
-\tagline{Your Position or Tagline Here}
+\tagline{Software Engineer}
 %% You can add multiple photos on the left or right
 % \photoR{2.8cm}{Globe_High} % TODO: Set my photo
 % \photoL{2.5cm}{Yacht_High,Suitcase_High}
@@ -147,19 +150,15 @@
 
 \cvsection{Experience}
 
-\cvevent{Job Title 1}{Company 1}{Month 20XX -- Ongoing}{Location}
-\begin{itemize}
-\item Job description 1
-\item Job description 2
-\end{itemize}
+\cvevent{Staff Software Engineer}{Babbel}{August 2017 -- Ongoing}{Berlin, Germany}
+%\begin{itemize}
+%\item Job description 1
+%\item Job description 2
+%\end{itemize}
 
 \divider
 
-\cvevent{Job Title 2}{Company 2}{Month 20XX -- Ongoing}{Location}
-\begin{itemize}
-\item Job description 1
-\item Job description 2
-\end{itemize}
+\cvevent{Senior Full-Stack Software Engineer}{Movinga}{Feb 2017 -- Aug 2017}{Berlin, Germany}
 
 % use ONLY \newpage if you want to force a page break for
 % ONLY the current column
@@ -206,19 +205,34 @@
 %
 %\cvachievement{\faHeartbeat}{Another achievement}{more details about it of course}
 
-\cvsection{Skills}
+\cvsection{About Me}
 
-% Don't overuse these \cvtag boxes — they're just eye-candies and not essential. If something doesn't fit on a single line, it probably works better as part of an itemized list (probably inlined itemized list), or just as a comma-separated list of strengths.
+I have \textbf{14 years of experience} developing software professionally. I focus on \textbf{backend}, but have also done \textbf{frontend}, mobile, and infrastructure. I advocate \textbf{code quality} and \textbf{continuous delivery}. \textbf{Tests} are part of my development practices, along with \textbf{TDD} and refactoring. I’m confident working with \textbf{agile} practices that enable \textbf{fast delivery} in small increments. I also have experience designing distributed services, microservices, and \textbf{REST APIs}. I'm a big fan of \textbf{tooling} and \textbf{observability}.
 
-\cvtag{Hard-working}
-\cvtag{Eye for detail}\\
-\cvtag{Motivator \& Leader}
+\begingroup
+\setlength{\parskip}{1em}
 
-\divider\smallskip
+I like environments that support \textbf{growth}, working along with \textbf{smart}, \textbf{respectful}, and \textbf{open-minded} people who care about their systems, tools, and code.
 
-\cvtag{C++}
-\cvtag{Embedded Systems}\\
-\cvtag{Statistical Analysis}
+I love to \textbf{code}! I'm a \textbf{NixOS}, \textbf{terminal}, and \textbf{neovim} user. I often learn new programming languages, frameworks, and technologies. I have worked professionally with Java, Javascript, \textbf{Typescript}, \textbf{Ruby}, and \textbf{Go}, but have also experimented with SML, Python, Haskell, Scala, Rust, Racket, Bash, Clojure, IO, and many others. I designed \href{https://github.com/juanibiapina/marco}{my own toy language}, a \href{https://github.com/basherpm/basher}{package manager for Bash}, and an \href{https://github.com/juanibiapina/sub}{organizer for command line scripts} that I use as part of my \href{https://github.com/juanibiapina/dotfiles}{12 years old dotfiles}. I try to keep at least one active coding side project. You can find more details about personal projects, passions, and open source on my \href{https://github.com/juanibiapina/}{Github Profile} and my \href{https://juanibiapina.github.io/}{blog}.
+
+I’m also a \textbf{game}, \textbf{music}, and \textbf{climbing} enthusiast.
+
+\endgroup
+
+%\cvsection{Skills}
+%
+%% Don't overuse these \cvtag boxes — they're just eye-candies and not essential. If something doesn't fit on a single line, it probably works better as part of an itemized list (probably inlined itemized list), or just as a comma-separated list of strengths.
+%
+%\cvtag{Hard-working}
+%\cvtag{Eye for detail}\\
+%\cvtag{Motivator \& Leader}
+%
+%\divider\smallskip
+%
+%\cvtag{C++}
+%\cvtag{Embedded Systems}\\
+%\cvtag{Statistical Analysis}
 
 \cvsection{Languages}
 
