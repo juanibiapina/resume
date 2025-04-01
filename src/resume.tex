@@ -74,6 +74,8 @@
 % \renewcommand{\cvDateMarker}{\faCalendar*[regular]}
 % \renewcommand{\cvLocationMarker}{\faMapMarker*}
 
+% new command for accent color
+\newcommand{\accentbold}[1]{\textbf{\textcolor{accent}{#1}}}
 
 % If your CV/résumé is in a language other than English,
 % then you probably want to change these so that when you
@@ -156,22 +158,22 @@
 \cvevent{Staff Software Engineer}{Babbel}{Aug 2017 -- Feb 2025}{Berlin, Germany}
 
 {\RaggedRight
-I worked in the Content Platform team, developing the learning content CMS and related content distribution \textbf{APIs}. We designed \textbf{cross-team architecture}, striving for \textbf{small deliverables} that bring value to users and allow teams to achieve their \textbf{goals} and work \textbf{independently}. Accomplishments:
+I worked in the Content Platform team, developing the learning content CMS and related content distribution \accentbold{APIs}. We designed \accentbold{cross-team architecture}, striving for \accentbold{small deliverables} that bring value to users and allow teams to achieve their \accentbold{goals} and work \accentbold{independently}. Accomplishments:
 
 \begin{itemize}
-\item \textbf{Content Pipeline}: Designed an integration between Babbel's \textbf{CMS} and \textbf{Contentful}, enabling fast creation of content for new learning experiences. This system now holds content for more than 20 learning experiences, fulfilling the company goal of experimenting with new forms of learning. Teams can \textbf{autonomously} create new types through Pull Requests. All content is \textbf{Git} versioned and \textbf{immutable}.
-\item \textbf{Content Deployment}: Led a multi-year project to enable content editors to deploy content. Through a series of \textbf{modeling} changes, API improvements, \textbf{monitoring}, data migrations, \textbf{test} improvements, education and even a Slack bot, Babbel went from one painful content deployment per quarter to several uneventful content deployments per week.
-\item \textbf{Content Modeling}: Designed an extensible new data model for current and future Babbel content, inspired by \textbf{NixOS} and served through a \textbf{GraphQL} API. The new model is backwards compatible but also enables new use cases involving personalization and AI integration.
-\item \textbf{Content APIs}: Designed \textbf{RESTful} content APIs for current and future company initiatives, focusing on \textbf{performance} and \textbf{cacheability}.
-\item \textbf{Workshops}: Organized internal \textbf{presentations} and \textbf{workshops} about Babbel's content domain and architecture, \textbf{empowering} other teams and content creators.
-\item \textbf{API Gateway tooling}: Improved build times (\textbf{from 15m to 5m}) and tooling for Babbel's main API Gateway, shared between teams. Engineers can simply run `make` and all checks run locally with zero setup required. The same setup runs on \textbf{CI}.
-\item \textbf{Engineer-friendly Documentation}: Started a documentation initiative to create engineer-friendly documentation in repositories. Many teams have adopted this practice and maintain Git versioned documentation.
-\item \textbf{User vocabulary migration}: Migrated all user vocabulary from \textbf{MySql} to \textbf{DynamoDB}. It went from 7 unmaintainable, untested joins, to a performant and scalable single table design.
-\item \textbf{Service extraction}: Actively drove or participated in many service extractions from the monolith, including user vocabulary, content, authorization, b2b, accounts and user progress \textbf{services}.
-\item \textbf{API Tests}: Wrote a suite of \textbf{API Integration} tests (mostly for myself, at the beginning). It has grown and is now a valuable tool used by many teams to find regressions.
-\item \textbf{Mentoring}: Mentored \textbf{junior}, \textbf{professional} and \textbf{senior} engineers, directly supporting their \textbf{growth} to higher roles, including several promotions to \textbf{Principal}.
-\item \textbf{Advice and support}: Teams contact me on a weekly basis to discuss system design. I advised about sound \textbf{domain entities} with clear nomenclature, well defined \textbf{system boundaries} and responsibilities, \textbf{small deliverables}, and then small deliverables a few more times because the \textbf{project only starts once it's in production}.
-\item \textbf{Principal Role}: I was the first engineer to be promoted to Principal. I helped define the role and its responsibilities drawing from my own experience temporarily moving between teams.
+\item \accentbold{Content Pipeline}: Designed an integration between Babbel's \accentbold{CMS} and \accentbold{Contentful}, enabling fast creation of content for new learning experiences. This system now holds content for more than 20 learning experiences, fulfilling the company goal of experimenting with new forms of learning. Teams can \accentbold{autonomously} create new types through Pull Requests. All content is \accentbold{Git} versioned and \accentbold{immutable}.
+\item \accentbold{Content Deployment}: Led a multi-year project to enable content editors to deploy content. Through a series of \accentbold{modeling} changes, API improvements, \accentbold{monitoring}, data migrations, \accentbold{test} improvements, education and even a Slack bot, Babbel went from one painful content deployment per quarter to several uneventful content deployments per week.
+\item \accentbold{Content Modeling}: Designed an extensible new data model for current and future Babbel content, inspired by \accentbold{NixOS} and served through a \accentbold{GraphQL} API. The new model is backwards compatible but also enables new use cases involving personalization and AI integration.
+\item \accentbold{Content APIs}: Designed \accentbold{RESTful} content APIs for current and future company initiatives, focusing on \accentbold{performance} and \accentbold{cacheability}.
+\item \accentbold{Workshops}: Organized internal \accentbold{presentations} and \accentbold{workshops} about Babbel's content domain and architecture, \accentbold{empowering} other teams and content creators.
+\item \accentbold{API Gateway tooling}: Improved build times (\accentbold{from 15m to 5m}) and tooling for Babbel's main API Gateway, shared between teams. Engineers can simply run `make` and all checks run locally with zero setup required. The same setup runs on \accentbold{CI}.
+\item \accentbold{Engineer-friendly Documentation}: Started a documentation initiative to create engineer-friendly documentation in repositories. Many teams have adopted this practice and maintain Git versioned documentation.
+\item \accentbold{User vocabulary migration}: Migrated all user vocabulary from \accentbold{MySql} to \accentbold{DynamoDB}. It went from 7 unmaintainable, untested joins, to a performant and scalable single table design.
+\item \accentbold{Service extraction}: Actively drove or participated in many service extractions from the monolith, including user vocabulary, content, authorization, b2b, accounts and user progress \accentbold{services}.
+\item \accentbold{API Tests}: Wrote a suite of \accentbold{API Integration} tests (mostly for myself, at the beginning). It has grown and is now a valuable tool used by many teams to find regressions.
+\item \accentbold{Mentoring}: Mentored \accentbold{junior}, \accentbold{professional} and \accentbold{senior} engineers, directly supporting their \accentbold{growth} to higher roles, including several promotions to \accentbold{Principal}.
+\item \accentbold{Advice and support}: Teams contact me on a weekly basis to discuss system design. I advised about sound \accentbold{domain entities} with clear nomenclature, well defined \accentbold{system boundaries} and responsibilities, \accentbold{small deliverables}, and then small deliverables a few more times because the \accentbold{project only starts once it's in production}.
+\item \accentbold{Principal Role}: I was the first engineer to be promoted to Principal. I helped define the role and its responsibilities drawing from my own experience temporarily moving between teams.
 \end{itemize}
 }
 
@@ -181,10 +183,6 @@ I worked in the Content Platform team, developing the learning content CMS and r
 
 {\RaggedRight
 I joined a team of full-stack engineers at Movinga and immediately started working on a microservice and its three client applications. I was also responsible for starting a couple of frontend applications from scratch. Later we extracted a pricing microservice from the main legacy code in order to improve deployment times, frequency (from once every two weeks to 10 times a day) and provide better insights about our prices.
-
-\begin{itemize}
-\item AWS
-\end{itemize}
 }
 
 \divider
@@ -192,7 +190,7 @@ I joined a team of full-stack engineers at Movinga and immediately started worki
 \cvevent{Senior Software Engineer}{Globo.com}{May 2015 -- Jan 2017}{Brazil}
 
 {\RaggedRight
-I joined Globo.com to work on the web media platform team. Globo is the biggest television channel in Brazil. As part of its technology team, we were responsible for ingesting raw television content videos and encoding them for online streaming. We worked on a system that provided both an UI and an API for uploading videos and metadata. This system was distributed in more than 50 locations across Brazil, gathering and processing videos from all partners. We processed more than 2.5TB of videos on a weekly basis, accounting for more than a thousand hours of content.
+I joined Globo.com to work on the web media platform team. We were responsible for ingesting raw television content videos and encoding them for online streaming. We worked on a system that provided both an UI and an API for uploading videos and metadata. This system was distributed in more than 50 locations across Brazil, gathering and processing videos from all partners. We processed more than 2.5TB of videos on a weekly basis, accounting for more than a thousand hours of content.
 
 \begin{itemize}
 \item Designed a content protection microservice that integrates with 3 third party APIs
@@ -315,26 +313,26 @@ This was my first contact with agile practices. I have learned much from it, inc
 
 \cvsection{Skills}
 
-\cvevent{Programming Languages}{Go, Ruby, Javascript, Typescript, Bash, Rust}{}{}
-\cvevent{Frameworks}{Rails, React, GraphQL}{}{}
-\cvevent{Tools}{Docker, Git, ffmpeg, VirtualBox}{}{}
+\cvevent{Programming Languages}{Go, Ruby, JavaScript, TypeScript, Bash, Rust}{}{}
+\cvevent{Frameworks}{Rails, React, GraphQL, Lambda}{}{}
+\cvevent{Tools}{Docker, Git, Nix/NixOS, Neovim, ffmpeg}{}{}
 \cvevent{Databases}{Postgres, DynamoDB, Redis, MySQL, MongoDB}{}{}
-\cvevent{Cloud}{AWS, Lambda, DynamoDB, CI/CD}{}{}
-\cvevent{DevOps}{Terraform, Nginx}{}{}
-\cvevent{Legacy}{Grape, Grails, Backbone.js, Knockout.js, Puppet, Chef}{}{}
+\cvevent{DevOps}{CI/CD, Terraform, Nginx, Rollbar, Datadog, Sentry, CloudWatch}{}{}
+\cvevent{Practices}{TDD, Pair Programming, Refactoring}{}{}
+\cvevent{Previously Worked With}{Angular, Grape, Grails, Backbone.js, Knockout.js, Puppet, Chef, Solr, VirtualBox}{}{}
 
 \cvsection{About Me}
 
-I have \textbf{14 years of experience} developing software professionally. I focus on \textbf{backend}, but have also done \textbf{frontend}, mobile, and infrastructure. I advocate \textbf{code quality} and \textbf{continuous delivery}. \textbf{Tests} are part of my development practices, along with \textbf{TDD} and refactoring. I’m confident working with \textbf{agile} practices that enable \textbf{fast delivery} in small increments. I also have experience designing distributed services, microservices, and \textbf{REST APIs}. I'm a big fan of \textbf{tooling} and \textbf{observability}.
+\accentbold{Backend} focused software engineer with \accentbold{14 years of experience}. I have also done \accentbold{frontend}, mobile, and infrastructure. I advocate \accentbold{code quality} and \accentbold{continuous delivery}. \accentbold{Tests} are part of my development practices, along with \accentbold{TDD} and refactoring. I’m confident working with \accentbold{agile} practices that enable \accentbold{fast delivery} in small increments. I also have experience designing distributed services, microservices, and \accentbold{REST APIs}. I'm a big fan of \accentbold{tooling} and \accentbold{observability}.
 
 \begingroup
 \setlength{\parskip}{1em}
 
-I like environments that support \textbf{growth}, working along with \textbf{smart}, \textbf{respectful}, and \textbf{open-minded} people who care about their systems, tools, and code.
+I like environments that support \accentbold{growth}, working along with \accentbold{smart}, \accentbold{respectful}, and \accentbold{open-minded} people who care about their systems, tools, and code.
 
-I love to \textbf{code}! I'm a \textbf{NixOS}, \textbf{terminal}, and \textbf{neovim} user. I have experimented with SML, Python, Haskell, Scala, Racket, Clojure, IO, and many others. I designed \href{https://github.com/juanibiapina/marco}{my own toy language}, a \href{https://github.com/basherpm/basher}{package manager for Bash}, and an \href{https://github.com/juanibiapina/sub}{organizer for command line scripts} that I use as part of my \href{https://github.com/juanibiapina/dotfiles}{12 years old dotfiles}. You can find more details about personal projects, passions, and open source on my \href{https://github.com/juanibiapina/}{Github Profile} and my \href{https://juanibiapina.github.io/}{blog}.
+I love to \accentbold{code}! I'm a \accentbold{NixOS}, \accentbold{terminal}, and \accentbold{neovim} user. I have experimented with SML, Python, Haskell, Scala, Racket, Clojure, IO, and many others. I designed \href{https://github.com/juanibiapina/marco}{my own toy language}, a \href{https://github.com/basherpm/basher}{package manager for Bash}, and an \href{https://github.com/juanibiapina/sub}{organizer for command line scripts} that I use as part of my \href{https://github.com/juanibiapina/dotfiles}{12 years old dotfiles}. You can find more details about personal projects, passions, and open source on my \href{https://github.com/juanibiapina/}{Github Profile} and my \href{https://juanibiapina.github.io/}{blog}.
 
-I’m also a \textbf{game}, \textbf{music}, and \textbf{climbing} enthusiast.
+I’m also a \accentbold{game}, \accentbold{music}, and \accentbold{climbing} enthusiast.
 
 \endgroup
 
